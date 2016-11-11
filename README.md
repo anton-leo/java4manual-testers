@@ -25,7 +25,7 @@
 - Flow control structures
 - Primitive types
 - Operators 
-- Casting 
+- Casting
 
 ## 5. JUnit recap (1)
 - Test structure
