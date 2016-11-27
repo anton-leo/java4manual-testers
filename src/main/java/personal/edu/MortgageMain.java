@@ -6,8 +6,7 @@ public class MortgageMain {
 
         int counter = 0;
         double minpayment = 57000;
-        double aptprice = 3_600_000.0;
-        double remainder = aptprice;
+        double remainder = 3_600_000.0;
         double percentage = 12.9;
         double deltasum = 0.0;
         while (remainder > minpayment) {
